@@ -9,7 +9,7 @@
 Este projeto utiliza técnicas de aprendizado de máquina para prever a presença de doença cardíaca com base em dados clínicos do paciente. O objetivo é treinar modelos capazes de identificar pacientes em risco, auxiliando em decisões médicas.
 
 ## Dataset
-- **Fonte:** [UCI Heart Disease Data](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)  
+- **Fonte:** [UCI Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?select=heart_disease_uci.csv)  
 - O dataset contém variáveis numéricas e categóricas, algumas com valores ausentes.  
 - Pré-processamento incluiu:
   - Imputação de valores ausentes
