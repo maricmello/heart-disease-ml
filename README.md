@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning
+# Predição de Doença Cardíaca Utilizando Regressão Logística e Técnicas de Pré-processamento de Dados
 
 ## Autores
 - Mariana Costa de Mello  
